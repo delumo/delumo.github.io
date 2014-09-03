@@ -37,10 +37,6 @@ ul{
     z-index: 100;
 }
 
-#logo:hover{
-    opacity: 0;
-}
-
 #header {
     width: 100%;
     background: #829BAB;
